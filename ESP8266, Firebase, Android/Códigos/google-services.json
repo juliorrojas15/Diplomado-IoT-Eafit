@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "504724051990",
+    "firebase_url": "https://iot-sena.firebaseio.com",
+    "project_id": "iot-sena",
+    "storage_bucket": "iot-sena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504724051990:android:d651cce134ce6c043f7d37",
+        "android_client_info": {
+          "package_name": "com.app.iotsena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504724051990-6u7ga99sv2bg0so6p9aicfmbdu59m4ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.iotsena",
+            "certificate_hash": "bc9447d2890e8381897919f41f9493f932dea1dd"
+          }
+        },
+        {
+          "client_id": "504724051990-fr0r1u0v3akf2ksursrt51vqlkjad1k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNDM9JFaBjMqqlNgS06i5S96AGex_wzc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504724051990-fr0r1u0v3akf2ksursrt51vqlkjad1k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
